@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 160" width="100%" height="160">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff88" />
+      <stop offset="100%" stop-color="#00e5ff" />
+    </linearGradient>
+  </defs>
+
+  <rect width="920" height="160" rx="12" fill="#080c14" stroke="#1a2333" stroke-width="1.5" />
+
+  <text x="35" y="32" font-family="'Consolas', monospace" font-size="13" font-weight="bold" fill="#00ff88" letter-spacing="2">[ SECURITY TELEMETRY // CORE COMPETENCIES ]</text>
+  <text x="885" y="32" text-anchor="end" font-family="'Consolas', monospace" font-size="11" fill="#64748b">STATUS: FIELD_TESTED</text>
+  <line x1="35" y1="44" x2="885" y2="44" stroke="#1a2333" stroke-width="1" />
+
+  <text x="35" y="72" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#e2e8f0">Penetration Testing &amp; Exploit Dev</text>
+  <rect x="340" y="60" width="480" height="14" rx="7" fill="#131c2e" />
+  <rect x="340" y="60" width="460" height="14" rx="7" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="460" dur="1.2s" fill="freeze" />
+  </rect>
+  <text x="835" y="72" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#00ff88">96%</text>
+
+  <text x="35" y="102" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#e2e8f0">Malware Analysis &amp; Reverse Engineering</text>
+  <rect x="340" y="90" width="480" height="14" rx="7" fill="#131c2e" />
+  <rect x="340" y="90" width="435" height="14" rx="7" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="435" dur="1.2s" fill="freeze" />
+  </rect>
+  <text x="835" y="102" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#00e5ff">91%</text>
+
+  <text x="35" y="132" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#e2e8f0">SOC Analysis &amp; Threat Detection</text>
+  <rect x="340" y="120" width="480" height="14" rx="7" fill="#131c2e" />
+  <rect x="340" y="120" width="420" height="14" rx="7" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="420" dur="1.2s" fill="freeze" />
+  </rect>
+  <text x="835" y="132" font-family="'Consolas', monospace" font-size="12" font-weight="bold" fill="#38bdf8">88%</text>
+</svg>

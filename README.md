@@ -165,10 +165,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mohammed-moshii/Moshii-Shell">🐚 Moshii-Shell</a></h3>
-      <p>Advanced offensive shellcraft toolkit featuring stealth reverse shell stagers, AV/EDR evasion wrappers, encrypted sockets, and one-liner payload generators across PowerShell, Bash, and Python.</p>
-      <img src="https://img.shields.io/badge/Shellcraft-Offensive-yellow?style=flat-square" />
-      <img src="https://img.shields.io/badge/Payloads-Stealth-purple?style=flat-square" />
+      <h3><a href="https://github.com/mohammed-moshii/moshii-GPT">🤖 MoshiiGPT — AI CyberShell Assistant</a></h3>
+      <p>Next-gen AI cybersecurity terminal assistant combining OpenAI, DeepSeek, Together AI &amp; VirusTotal. Features automated OSINT reconnaissance, real-time packet capturing with tcpdump, threat intelligence, and smart interactive penetration testing workflows.</p>
+      <img src="https://img.shields.io/badge/AI-CyberSecurity-00ff88?style=flat-square" />
+      <img src="https://img.shields.io/badge/DeepSeek-Integrated-00e5ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/OSINT-Automation-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/VirusTotal-API-blue?style=flat-square" />
     </td>
     <td width="50%">
       <h3><a href="https://mohammed-moshii.github.io">🌐 Mohammed Moshii Portfolio</a></h3>

@@ -15,11 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Penetration+Tester+%26+Red+Teamer;NASA+Hall+of+Fame+Inductee+%F0%9F%9A%80;Malware+Analyst+%26+Reverse+Engineer;Top+1%25+Ranked+TryHackMe+Hacker;SOC+Analyst+%26+Threat+Hunter;Computer+Science+Researcher;Father+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=Penetration+Tester+%26+Red+Teamer;CVE-2026-61543+Finder+%F0%9F%9B%A1%EF%B8%8F;NASA+Hall+of+Fame+Inductee+%F0%9F%9A%80;Malware+Analyst+%26+Reverse+Engineer;Top+1%25+Ranked+TryHackMe+Hacker;SOC+Analyst+%26+Threat+Hunter;Father+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/mifasu/telegramnotice/security/advisories/GHSA-9hc4-rm53-6f97"><img src="https://img.shields.io/badge/CVE--2026--61543-Finder%20%7C%20Disclosed-e11d48?style=for-the-badge&amp;logo=cve&amp;logoColor=white" alt="CVE-2026-61543 Finder" /></a>
   <a href="https://mohammed-moshii.github.io"><img src="https://img.shields.io/badge/NASA-Hall%20of%20Fame-0b3d91?style=for-the-badge&amp;logo=nasa&amp;logoColor=white" alt="NASA Hall of Fame" /></a>
   <a href="https://tryhackme.com/p/Moshii"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe Top 1%" /></a>
   <a href="https://mohammed-moshii.github.io"><img src="https://img.shields.io/badge/EC--Council-CEH%20Certified-1f8b4c?style=for-the-badge&amp;logo=hack-the-box&amp;logoColor=white" alt="CEH Certified" /></a>
@@ -49,6 +50,7 @@
 
 > *"Offense informs defense. I dissect complex architectures, uncover 0-day attack surfaces, reverse engineer hostile payloads, and fortify enterprise perimeters against advanced threat actors."*
 
+- 🛡️ **CVE Discovery** : Officially credited **Finder & Author** of [**CVE-2026-61543**](https://github.com/mifasu/telegramnotice/security/advisories/GHSA-9hc4-rm53-6f97) (*GHSA-9hc4-rm53-6f97*) — HTML/Markup Injection in TelegramNotice message formatting.
 - 👨‍👦 **Who am I** : Proud **Father** | **Penetration Tester** | **Red Teamer / Hacker** | **SOC Analyst** | **Malware Analyst**.
 - 🎓 **Academic Research** : Graduate Student in **Computer Science** at the [Faculty of Graduate Studies for Statistical Research (FGSSR / CSDS)](https://csds.cu.edu.eg), Cairo University.
 - 📜 **Accreditations** : **CEH** (Certified Ethical Hacker) • **CSA** (Certified SOC Analyst) • **PMA** (Practical Malware Analysis).
@@ -66,6 +68,7 @@
 
 | Target Entity | Status &amp; Impact | Research Focus |
 | :--- | :--- | :--- |
+| 🛡️ [**CVE-2026-61543**](https://github.com/mifasu/telegramnotice/security/advisories/GHSA-9hc4-rm53-6f97) | **Discovered &amp; Credited (Finder)** | HTML Injection in TelegramNotice formatting ([GHSA-9hc4-rm53-6f97](https://github.com/mifasu/telegramnotice/security/advisories/GHSA-9hc4-rm53-6f97)) |
 | 🚀 **NASA** | **Hall of Fame Inductee** | Coordinated security disclosure via NASA VDP |
 | ⚡ **Tesla** | **Disclosed &amp; Remediated** | Bug bounty &amp; product perimeter security |
 | 💼 **LinkedIn** | **Disclosed &amp; Remediated** | Enterprise identity &amp; web application vulnerabilities |
@@ -173,10 +176,11 @@
       <img src="https://img.shields.io/badge/VirusTotal-API-blue?style=flat-square" />
     </td>
     <td width="50%">
-      <h3><a href="https://mohammed-moshii.github.io">🌐 Mohammed Moshii Portfolio</a></h3>
-      <p>Interactive cyberpunk cyber security portfolio and vulnerability research hub. Features technical writeups, penetration testing methodologies, interactive labs, and research disclosures.</p>
-      <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Cyberpunk-UI-cyan?style=flat-square" />
+      <h3><a href="https://github.com/mifasu/telegramnotice/security/advisories/GHSA-9hc4-rm53-6f97">🛡️ CVE-2026-61543: TelegramNotice HTML Injection</a></h3>
+      <p>Discovered by Mohammed Moshii (Finder). Vulnerability in TelegramNotice allowing user-controlled input insertion into Telegram HTML messages without proper sanitization, enabling markup breakout and phishing link injection.</p>
+      <img src="https://img.shields.io/badge/CVE-2026--61543-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Credit-Finder-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Advisory-GHSA--9hc4--rm53--6f97-blue?style=flat-square" />
     </td>
   </tr>
 </table>
